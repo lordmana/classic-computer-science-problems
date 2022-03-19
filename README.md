@@ -1,14 +1,32 @@
 # Classic computer science problems
 Programming problems typically taught in an undergraduate computer science curriculum
 
-## 1 Small problems
+## Small problems
 
-### 1.1 The Fibonacci sequence
+### The Fibonacci sequence
 
-### 1.2 Trivial compression
+### Trivial compression
 
-### 1.3 Unbreakable encryption
+### Unbreakable encryption
 
-### 1.4 Calculating pi
+### Calculating pi
 
-### 1.5 The Towers of Hanoi
+### The Towers of Hanoi
+
+## Search problems
+
+## Constraint satisfaction problems
+
+## Graph problems
+
+## Genetic algorithms
+
+## K-means clustering
+
+## Neural networks
+
+## Adversarial search
+
+## Miscellaneous problems
+
+
